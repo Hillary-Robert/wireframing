@@ -139,7 +139,7 @@ Wireframes show where each part of the app or website will go. This makes it eas
 **Example:** A wireframe for a booking page can show where the calendar, price, and “Book Now” button will be placed.
 
 ### 2. Saves Time and Reduces Mistakes  
-By planning the layout early, teams can spot problems before development starts. It’s easier and faster to fix changes in a wireframe than in real code.
+By planning the layout early, teams can spot problems before development starts. It’s easier and faster to fix changes in a wireframe than in real code
 
 ### 3. Helps Team Communication  
 Wireframes give everyone (designers, developers, and clients) a clear picture of what is being built. Everyone can agree on the structure before moving forward.  
@@ -149,3 +149,31 @@ Wireframes give everyone (designers, developers, and clients) a clear picture of
 Wireframes help focus on user needs, like where to put buttons, forms, and menus for easy use. This leads to better and more user-friendly designs.
 
 In short, wireframing helps the whole team work better and build smarter software.
+
+
+
+## Wireframing in Practice
+
+### Real-World Example
+
+A team was building a hotel booking website. During the wireframing stage, they created a simple layout showing how users would search for hotels and complete a booking.
+
+While reviewing the wireframe, the team noticed a problem:  
+There was no clear way for users to **see price details** before clicking “Book Now.” Also, the “Cancel” and “Confirm” buttons on the booking page looked too similar, which could cause confusion.
+
+### How the Issues Were Fixed
+
+- A new “View Price Breakdown” link was added below the total price to give more clarity.
+- The “Confirm Booking” button was made larger and green, while the “Cancel” button was made smaller and grey.
+
+These changes were made **before** any code was written. It saved the team time and prevented possible user complaints later.
+
+### Final Impact
+
+- Users found the booking process easier and clearer.
+- The team avoided having to change the layout during development.
+- Testing showed fewer user errors, and feedback was positive.
+
+### Summary
+
+This example shows how wireframing helps teams find and fix design problems early. It improves communication, saves time, and leads to a better, more user-friendly product.
