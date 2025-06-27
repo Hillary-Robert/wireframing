@@ -128,3 +128,24 @@ There are many tools that help you create wireframes easily. These tools let you
 You can use Figma to draw a quick layout of a login page, add buttons, and even test how it works when users click.
 
 Figma makes wireframing faster, easier, and more fun—especially when working with a team.
+
+
+## Benefits of Wireframing in Software Development
+
+Wireframing is very helpful in software development. It helps teams plan the structure of a website or app before writing any code.
+
+### 1. Guides the Design Process  
+Wireframes show where each part of the app or website will go. This makes it easier for designers to plan the layout and flow.  
+**Example:** A wireframe for a booking page can show where the calendar, price, and “Book Now” button will be placed.
+
+### 2. Saves Time and Reduces Mistakes  
+By planning the layout early, teams can spot problems before development starts. It’s easier and faster to fix changes in a wireframe than in real code.
+
+### 3. Helps Team Communication  
+Wireframes give everyone (designers, developers, and clients) a clear picture of what is being built. Everyone can agree on the structure before moving forward.  
+**Example:** A developer can look at the wireframe to understand what pages are needed and how users move between them.
+
+### 4. Improves User Experience (UX)  
+Wireframes help focus on user needs, like where to put buttons, forms, and menus for easy use. This leads to better and more user-friendly designs.
+
+In short, wireframing helps the whole team work better and build smarter software.
