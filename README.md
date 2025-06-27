@@ -101,3 +101,30 @@ To know what type a wireframe is, ask:
 - Is it simple with only boxes and fake text? → It's **low-fidelity**
 - Does it look real with text, buttons, and colors? → It's **high-fidelity**
 
+## Wireframing Tools
+
+There are many tools that help you create wireframes easily. These tools let you draw the layout of your website or app, move things around, and share your ideas with others.
+
+### Popular Wireframing Tools
+
+- **Figma**  
+- **Balsamiq**  
+- **Adobe XD**  
+- **Sketch**  
+- **Draw.io**
+
+### Recommended Tool: Figma
+
+**Figma** is one of the best tools for wireframing. It is easy to use and works right in your browser. You don’t need to install anything.
+
+**Why Figma is great:**
+- It is free for beginners and students
+- You can design with others in real time (team collaboration)
+- Has many built-in shapes, templates, and design elements
+- You can make both low-fidelity and high-fidelity wireframes
+- Works on any computer because it is online
+
+**Example:**  
+You can use Figma to draw a quick layout of a login page, add buttons, and even test how it works when users click.
+
+Figma makes wireframing faster, easier, and more fun—especially when working with a team.
