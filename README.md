@@ -53,3 +53,51 @@ A login wireframe might show input fields for email and password, a “Log In”
 
 Each of these elements contributes to a user-friendly, efficient, and goal-oriented interface. By focusing on them during the wireframing stage, teams can plan user experiences more effectively and avoid design confusion later.
 
+## Types of Wireframes
+
+There are two main types of wireframes: **low-fidelity** and **high-fidelity**. They are used at different stages when designing a website or app.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple drawings. They show the basic layout of a page without details like colors, images, or real text.
+
+**What they look like:**
+- Made with simple shapes like boxes and lines
+- No colors or fonts
+- Use fake text like “Lorem ipsum”
+- Can be drawn by hand or made with simple tools
+
+**When to use:**
+- At the beginning of the design process
+- When sharing early ideas
+- When you want to show layout quickly
+
+**Example:**  
+A quick sketch of a homepage with a header, menu, and content area.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes look more like the real website or app. They show more details and may include colors, fonts, and real text.
+
+**What they look like:**
+- Include real text and buttons
+- Use colors, fonts, and proper spacing
+- Can be interactive (clickable)
+
+**When to use:**
+- In the middle or end of the design process
+- When testing with users
+- Before giving to developers
+
+**Example:**  
+A detailed design of a login page with real labels, buttons, and layout.
+
+---
+
+## What Type of Wireframe is This?
+
+To know what type a wireframe is, ask:
+
+- Is it simple with only boxes and fake text? → It's **low-fidelity**
+- Does it look real with text, buttons, and colors? → It's **high-fidelity**
+
